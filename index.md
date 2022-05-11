@@ -2,7 +2,6 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Josh Bruton</title>
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,8 +51,7 @@
   <div class="bottom-container">
     <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
     <a class="footer-link" href="https://twitter.com/">Twitter</a>
-    <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
-    <p>© 2018 Name Surname.</p>
+    <p>© 2022 Utopian Python</p>
   </div>
 
 
