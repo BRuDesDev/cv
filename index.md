@@ -22,7 +22,7 @@
     <div class="profile">
       <img src="images/profile.png" alt="flaticon.com img">
       <h2>Hello.</h2>
-      <p>Lorem ipsum dolor sit amet, vitae volutpat, dui conubia, dolor urna. Non auctor, montes nulla distinctio.</p>
+      <p>Python Programmer and Web Developer (experienced in Debian Linux and BASH) forever learning and building that portfolio.</p>
     </div>
     <hr>
     <div class="skills">
@@ -50,9 +50,9 @@
 
 
   <div class="bottom-container">
-    <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
-    <a class="footer-link" href="https://twitter.com/">Twitter</a>
-    <p>© 2022 Utopian Python</p>
+    <a class="footer-link" href="https://www.linkedin.com/in/josh-bruton-873286200/">My LinkedIn</a>
+    <a class="footer-link" href="https://www.github/BRuDesDev">My GitHub</a>
+    <p>2022 Josh Bruton</p>
   </div>
 
 
