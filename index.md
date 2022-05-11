@@ -1,13 +1,11 @@
 <html lang="en" dir="ltr">
   
-
-<head>
-  <style>
-    body {
-  margin: 0;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-}
+<style>
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
 
 h1 {
   font-size: 5.625rem;
@@ -117,7 +115,9 @@ a {
   text-decoration: none;
 }
     
-  </style>
+</style>
+<head>
+  
   <meta charset="utf-8">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="favicon.ico">
