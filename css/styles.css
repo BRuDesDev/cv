@@ -1,0 +1,175 @@
+body {
+  color: #3C415C;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0 auto 0 auto;
+  color: #301B3F;
+  font-size: 5.625rem;
+  font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 1.5rem;
+  color: #B4A5A5;
+}
+
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #301B3F;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3C415C;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #3C415C 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 30px auto 0 auto;
+}
+
+.top-container {
+  background-color: #3C415C;
+  position: relative;
+  padding-top: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+
+.subtitle {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 160;
+}
+
+.mountain {
+
+}
+
+.middle-container {
+  background-color: #B4A5A5;
+}
+
+.profile {
+  padding-top: 30px;
+}
+
+.hello {
+  color: #3C415C;
+  font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+  font-size: 2rem;
+  weight: bold;
+}
+
+.intro {
+  width: 40%;
+  margin: auto auto 100px auto;
+}
+
+.skills {
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.first-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.third-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second_skill_desc {
+
+}
+
+.contact-me {
+
+}
+
+.touch {
+  color: #301B3F;
+  font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+  font-size: 2rem;
+}
+
+.work {
+  color: #3C415C;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-message {
+
+}
+
+.btn {
+	background-color:#301b3f;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:15px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3C415C;
+}
+.btn:hover {
+	background-color:#3C415C;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+  background-color: #3C415C;
+  padding: 50px 0 20px;
+  color: #FFFFFF;
+}
