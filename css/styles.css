@@ -148,12 +148,12 @@ hr {
 }
 
 .btn {
-	background-color:#301b3f;
+	background-color:#3C415C;
 	border-radius:28px;
-	border:1px solid #ffffff;
+	border:1px solid #000000;
 	display:inline-block;
 	cursor:pointer;
-	color:#000000;
+	color:#ffffff;
 	font-family:Verdana;
 	font-size:17px;
 	padding:15px 25px;
